@@ -1,0 +1,9 @@
+pub mod cd_command_handler;
+pub mod echo_command_handler;
+pub mod history_command_handler;
+pub mod locate_command_handler;
+pub mod pipeline_command_handler;
+pub mod pwd_command_handler;
+pub mod redirection_command_handler;
+pub mod type_command_handler;
+pub mod unspecified_command_handler;
